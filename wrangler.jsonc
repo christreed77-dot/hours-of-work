@@ -1,0 +1,6 @@
+{
+  // Cloudflare Workers "static assets" project: serves everything in ./site, no server code.
+  "name": "hours-of-work",
+  "compatibility_date": "2026-11-01",
+  "assets": { "directory": "./site" }
+}
